@@ -1,0 +1,62 @@
+/* https://coolors.co/ffe74c-ff6f59-645853-4ea5d9-44cfcb
+/* CSS HEX
+#F7FFF7; - almost white
+#343434; - Dark Gray- almost black
+--minion-yellow: #ffe74c;
+--bittersweet: #ff6f59;
+--umber: #645853;
+--uranian blue #A9D4EF
+--carolina-blue: #4ea5d9;
+--medium-turquoise: #44cfcb;
+"Uranian Blue”:  #a9d4ef;
+
+*/
+/* Global styles
+------------------------- */
+body {
+  color: #343434;
+}
+img {
+  width: 300px;
+}
+a {
+  color: #ffe74c;
+}
+a:hover{
+  text-decoration: none;
+}
+/* Profile
+------------------------- */
+header {
+  background:  #645853;
+  color: #F7FFF7;
+
+}
+
+/* Projects
+------------------------- */
+.projects {
+  background: #F7FFF7;
+}
+.projects a{
+color:#F7FFF7;
+background: #645853;
+text-decoration: none;
+padding: 8px;
+border-radius: 4px;
+}
+
+/* Work Experience
+------------------------- */
+.work {
+  background: #a9d4ef;
+}
+/* Education
+------------------------- */
+/* Contact info
+------------------------- */
+footer {
+  background: 
+  #645853;
+  color: #F7FFF7;
+}
