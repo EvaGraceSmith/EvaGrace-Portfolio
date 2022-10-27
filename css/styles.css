@@ -15,6 +15,8 @@
 ------------------------- */
 body {
   color: #343434;
+  margin: 0;
+  padding: 0;
 }
 img {
   width: 300px;
@@ -25,6 +27,18 @@ a {
 a:hover{
   text-decoration: none;
 }
+h2 {
+  margin: 0;
+}
+.content-wrap {
+width: 700px;
+margin: 0 auto;
+padding: 60px 0;
+
+
+
+}
+
 /* Profile
 ------------------------- */
 header {
@@ -39,11 +53,19 @@ header {
   background: #F7FFF7;
 }
 .projects a{
+  color:#645853;
+
+}
+.projects .btn{
 color:#F7FFF7;
 background: #645853;
 text-decoration: none;
 padding: 8px;
 border-radius: 4px;
+display: inline-block;
+}
+.projects .btn:hover{
+  background: rgba(100, 88, 83, 80%);
 }
 
 /* Work Experience
