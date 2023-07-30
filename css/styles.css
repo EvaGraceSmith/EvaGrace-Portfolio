@@ -105,6 +105,7 @@ display: inline-block;
 
 .project-item {
   overflow: hidden;
+  padding-bottom: 8vh;
 }
 
 .project-item H3 {
