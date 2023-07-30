@@ -112,6 +112,10 @@ display: inline-block;
   margin-top: 0;
 }
 
+.holidayHelpers{
+  margin-bottom: 20vh;
+}
+
 /* Work Experience
 ------------------------- */
 .work {
