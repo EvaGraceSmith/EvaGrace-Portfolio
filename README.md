@@ -110,3 +110,6 @@ Chapter 8 – Fluid and Responsive Layouts
 <https://www.browserstack.com/> <https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag>
        CSS Essential Training with Christina Truong
 5 of 5
+
+
+
